@@ -1,0 +1,56 @@
+	.h2{
+		color:grey;
+		text-align: center;
+		font-size: 30px;
+
+	}
+	.href{
+		color:yellow;
+		 margin-top:30px;
+	}
+	.colorwh{
+		color:white;
+	}
+	.box1{
+	 	height:150px;
+	 	 width:176px
+	}
+	 .button{
+	 	color:black;
+	  border:none;
+	  background-color:green;
+	   margin-left:30px;
+	   height:20px;
+	   width:120px
+	}
+	.p{color:yellow;
+	  	font-family: ariel;
+	  	margin-left: 50px;
+	  	font-size: 10px;
+	 }
+	  .box2{
+	  	background-color:black;
+	   height: 200px;
+	   gap:30px;
+	   display:flex
+
+	 }
+	 .box3{
+	 	background-color:black;
+	 	 height:200px; width:310px;
+	 	  margin-left: 20px;
+	 	  display:flex;
+	 	  border-radius:10px;
+	 }
+	 .text{
+	 	color:white;
+	 }
+	 .img{
+	 	height: 150px;
+	 	width:110px;
+	 	 border-radius:10px;
+	 }
+	 .box3:hover{
+	 	background-color:yellow;
+	 	transition: background 1s;
+	 }
