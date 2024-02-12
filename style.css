@@ -27,6 +27,11 @@
 	   height:20px;
 	   width:120px
 	}
+	.button:hover{
+		color:white;
+		background-color:black;
+		transition: 1s;
+	}
 	.p{color:yellow;
 	  	font-family: ariel;
 	  	margin-left: 50px;
