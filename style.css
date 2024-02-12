@@ -29,23 +29,23 @@
 	}
 	 .button:hover{
 		color:white;
-		background-color:black;
+		background-color:grey;
 		transition: 1s;
 	}
 	.p{color:yellow;
-	  	font-family: ariel;
+	  	font-family: arial;
 	  	margin-left: 50px;
 	  	font-size: 10px;
 	 }
 	  .box2{
-	  	background-color:black;
+	  	background-color:#141414;
 	   height: 200px;
 	   gap:30px;
 	   display:flex
 
 	 }
 	 .box3{
-	 	background-color:black;
+	 	background-color:#141414;
 	 	 height:200px; width:310px;
 	 	  margin-left: 20px;
 	 	  display:flex;
