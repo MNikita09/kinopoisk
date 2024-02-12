@@ -27,7 +27,7 @@
 	   height:20px;
 	   width:120px
 	}
-	.button:hover{
+	 .button:hover{
 		color:white;
 		background-color:black;
 		transition: 1s;
